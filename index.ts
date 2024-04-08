@@ -4,4 +4,4 @@ let name = "Sir Ameen"
 
 console.log(greet + name);
 
-//ended
+//The end
